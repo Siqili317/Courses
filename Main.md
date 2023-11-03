@@ -1,6 +1,0 @@
-R
-### My notes
-
-> quote
-
-**
