@@ -1,3 +1,6 @@
+## Day 22 Pong Game
+![image](https://github.com/Siqili317/Courses/assets/30979399/d0608206-cdf1-4250-b3d6-4644d6f7e505)
+
 ## Day 20 & 21 Snake game
 ![image](https://github.com/Siqili317/Courses/assets/30979399/74e442fe-388a-441a-b554-3f55222ded6f)
 
