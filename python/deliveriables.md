@@ -1,3 +1,6 @@
+## Day 20 & 21 Snake game
+![image](https://github.com/Siqili317/Courses/assets/30979399/74e442fe-388a-441a-b554-3f55222ded6f)
+
 ## Day 19
 ![image](https://github.com/Siqili317/Courses/assets/30979399/6b7b9eae-40b0-4158-88b0-8e20c81ee1e3)
 
