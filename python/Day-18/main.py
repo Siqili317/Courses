@@ -44,7 +44,7 @@ while rep > 0:
     timmy.right(4)
     rep -=1"""
 
-colors = colorgram.extract(r'/Users/xxx/Documents/myGitTrackingProjects/Courses/python/Day-18/c.png', 30)
+colors = colorgram.extract('c.png', 30)
 rgb_color = []
 for color in colors:
     rgb_color.append((color.rgb.r, color.rgb.g, color.rgb.b))
