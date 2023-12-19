@@ -1,3 +1,13 @@
+## Day 31 Flashcard for learning new languages
+![image](https://github.com/Siqili317/Courses/assets/30979399/27575b89-4e93-4cd7-b156-bc2e0b58d55b)
+
+## Day 29 & 30 Password Manager
+![image](https://github.com/Siqili317/Courses/assets/30979399/5a0b119f-e2f4-4ef9-aef4-3f2d3a21659d)
+
+## Day 28 Pomodoro
+![image](https://github.com/Siqili317/Courses/assets/30979399/1034e54e-d4d7-4cd7-9725-16c70506992d)
+
+
 ## Day 25 Guess US States Game
 ![image](https://github.com/Siqili317/Courses/assets/30979399/3ea0b164-89cf-42bd-823a-da092f877f2c)
 
