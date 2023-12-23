@@ -6,12 +6,19 @@ chrome_options = webdriver.ChromeOptions()
 chrome_options.add_experimental_option("detach", True)
 
 driver = webdriver.Chrome(options=chrome_options)
-driver.get("https://www.amazon.com/dp/B075CYMYK6?ref_=cm_sw_r_cp_ud_ct_FM9M699VKHTT47YD50Q6&th=1")
+driver.get("https://www.python.org/")
 
-whole_price = driver.find_element(by=By.CLASS_NAME, value='a-price-whole')
-fraction_price = driver.find_element(by=By.CLASS_NAME, value='a-price-fraction')
+event_times = driver.find_elements(by=By.CSS_SELECTOR, value='.event-widget li time')
+event_names = driver.find_elements(by=By.CSS_SELECTOR, value='.event-widget li a')
 
-print(f"The price on Amazon is {whole_price.text}.{fraction_price.text}")
+events = {}
+for n in range(len(event_times)):
+    events[n] = {
+        'time': event_times[n].text,
+        'name': event_names[n].text
+    }
+
+print(events)
 
 # # Close one tab
 # driver.close()
